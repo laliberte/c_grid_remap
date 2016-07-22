@@ -1,0 +1,11 @@
+c_grid_remap
+============
+
+This package provides command-line tools to remap CF-compliant files (typically CMIP5)
+to an arbitrary C grid.
+
+Frederic Laliberte
+Environment and Climate Change Canada, 2016
+
+The Natural Sciences and Engineering Research Council of Canada (NSERC/CRSNG) funded 
+FBL during this project.
